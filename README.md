@@ -1,18 +1,17 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JonghyeonYANG&fontSize=90)
-
-판단력과 순발력을 갖춘 개발 꿈나무입니다.
   
-------------
 
 # 🌈 언어 및 도구 🌈
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+  
+</br>
 
 # 🍉 경력 🍉
-<2018.07~2018.08>
+**<2018.07~2018.08>**
 
-줌인터넷 부설연구소 / 데이터 레이블링 아르바이트  
+**줌인터넷 부설연구소 / 데이터 레이블링 아르바이트**
   
   
 <2019.07~2021.07>
@@ -24,6 +23,7 @@
   
 연세대학교 치과대학병원 / 원무파트  
 
+</br>
   
 # ⚡강점⚡
 독서, 인터넷 강의로 개념을 잡되
@@ -32,11 +32,15 @@ copy & paste 없이 자발적으로
   
 모든 것을 직접 생각하고 코딩했습니다.
   
+</br>
+
 ------------
   
 # 🔍개인 프로젝트🔍
   
 <a href="https://facitea.github.io/index.html">Animall (GithubPage)</a>
+
+</br>
   
 # ⚽토이 프로젝트⚽
 <a href="https://github.com/facitea/lotto">로또번호 추첨기</a>
@@ -47,7 +51,10 @@ copy & paste 없이 자발적으로
   
 <a href="https://github.com/facitea/NumberBaseball">숫자야구게임</a>
 
+</br>
+
 ------------
+
 # 🔥소개🔥
 </div>
   
