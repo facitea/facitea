@@ -3,12 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JonghyeonYANG&fontSize=90)
   
 
-# 📌 언어 및 도구 📌
+# 언어 및 도구 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
   
 </br>
 
-# 🍉 경력 🍉
+#  경력 
 **<2018.07~2018.08>**
 
 **줌인터넷 부설연구소 / 데이터 레이블링 아르바이트**
@@ -25,7 +25,7 @@
 
 </br>
   
-# ⚡강점⚡
+# 강점
 독서, 인터넷 강의로 개념을 잡되
   
 copy & paste 없이 자발적으로
@@ -36,13 +36,13 @@ copy & paste 없이 자발적으로
 
 ------------
   
-# 🔍개인 프로젝트🔍
+# 개인 프로젝트
   
 <a href="https://facitea.github.io/index.html">Animall (GithubPage)</a>
 
 </br>
   
-# ⚽토이 프로젝트⚽
+# 토이 프로젝트
 <a href="https://github.com/facitea/lotto">로또번호 추첨기</a>
   
 <a href="https://github.com/facitea/petty_cash">시재 계산기</a>
@@ -53,14 +53,14 @@ copy & paste 없이 자발적으로
 
 </br>
 
-# 🌀클론 퍼블리싱🌀
+# 클론 퍼블리싱
 <a href="https://github.com/facitea/okkyClone">okky.kr</a>
 
 </br>
 
 ------------
 
-# 🔥소개🔥
+# 소개
 </div>
   
 
