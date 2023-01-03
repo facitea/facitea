@@ -4,6 +4,8 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facitea)](https://github.com/facitea/github-readme-stats)
+
 - 줌인터넷 연구소에서 데이터 레이블링 아르바이트를 경험하였습니다. 이를 바탕으로 개발자 환경과 웹개발이라는 분야를 알아오게 되었습니다.
 
 - 병원 행정직으로서 3년 간 업무를 경험하던 중 병원 업무 경험을 바탕으로 더욱 생산적이고 발전적인 삶을 살고 싶었습니다. 이에 JavaScript를 공부하여 병원 업무에 도움이 되는 프로그래밍을 시작했습니다. 주변의 조언으로 웹 프론트엔드 개발의 기본이 되는 HTML/CSS/JavaScript에 집중할 수 있었습니다.
