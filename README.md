@@ -53,6 +53,11 @@ copy & paste 없이 자발적으로
 
 </br>
 
+# 🌀클론 퍼블리싱🌀
+<a href="https://github.com/facitea/okkyClone">Okky.kr 클론</a>
+
+</br>
+
 ------------
 
 # 🔥소개🔥
