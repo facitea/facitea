@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/badge/Javascript-#F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+
+
 
 - 줌인터넷 연구소에서 데이터 레이블링 아르바이트를 경험하였습니다. 이를 바탕으로 개발자 환경과 웹개발이라는 분야를 알아오게 되었습니다.
 
