@@ -85,6 +85,5 @@ copy & paste 없이 자발적으로
 고연봉 대학병원 행정직 내려놓고 밑바닥부터 시작하려 합니다. 병원에서 체득한 인내심과 문제해결능력, 순발력으로 꿈을 향해 정진하고 있습니다. 낮에는 병원업무, 밤에는 개발공부를 한다는 것이 쉬운 일은 아니지만 현재의 어려움을 이겨낸 사람만이 미래의 행복을 쟁취할 수 있다고 생각합니다. 저를 채용해주신다면 맡은 바 소임을 다하여 기업 성장에 기여하겠습니다. 감사합니다.
 </div>
 
-<footer>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffacitea&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</footer>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffacitea&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
