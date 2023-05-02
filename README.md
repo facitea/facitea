@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Capacitor-FFCA28?style=flat&logo=Firebase&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Capacitor-3178C6?style=flat&logo=Firebase&logoColor=white"/>
   
 </br>
 
@@ -22,9 +22,13 @@
 고려대학교의료원 / 응급실원무팀  
   
   
-<2021.12 ~ 재직중>.
+<2021.12 ~ 2023.02>
   
 연세대학교 치과대학병원 / 원무파트  
+
+<2023.02 ~ 재직중>
+
+홈체크 / 개발팀
 
 </br>
   
